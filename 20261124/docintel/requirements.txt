@@ -1,0 +1,7 @@
+azure-ai-documentintelligence>=1.0.0
+python-dotenv
+pandas
+scikit-learn
+pillow
+pypdf
+jupyter
